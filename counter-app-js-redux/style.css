@@ -1,0 +1,13 @@
+ h1 {
+     font-size:2rem;
+     text-align:center;
+ }
+ .hero {
+     text-align:center;
+ }
+ .steps {
+     margin-top:1rem;
+ }
+ .active {
+     background-color:green;
+ }
